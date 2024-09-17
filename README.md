@@ -18,6 +18,9 @@ I would be delighted to be a part of your team!
 
 JavaScript, TypeScript, Git, React, Jest, Sass, Vite, Figma
 
+### Socials
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruslan-miroshnychenko-2487102ba/)
 <!--
 **mirosaint/mirosaint** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
