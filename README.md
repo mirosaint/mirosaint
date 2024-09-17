@@ -20,7 +20,7 @@ JavaScript, TypeScript, Git, React, Jest, Sass, Vite, Figma
 
 ### Socials
 
-[(https://www.linkedin.com/in/ruslan-miroshnychenko-2487102ba/)]
+(https://www.linkedin.com/in/ruslan-miroshnychenko-2487102ba/)
 
 <!--
 **mirosaint/mirosaint** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
