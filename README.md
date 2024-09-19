@@ -11,7 +11,7 @@ Creating intuitive and responsive web applications is what drives me. I believe 
 I would be delighted to be a part of your team!
 
 🌍 I'm based in Poznań.  
-✉️ You can contact me at [miroshnychenkor@gmail.com](mailto:miroshnychenkor@gmail.com)  
+✉️ You can contact me at - [miroshnychenkor@gmail.com](mailto:miroshnychenkor@gmail.com)  
 🧠 I'm currently learning Node.js
 
 ### Skills
