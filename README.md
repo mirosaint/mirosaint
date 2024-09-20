@@ -12,7 +12,7 @@ I would be delighted to be a part of your team!
 
 🌍 I'm based in Poznań.  
 ✉️ You can contact me at - [miroshnychenkor@gmail.com](mailto:miroshnychenkor@gmail.com)  
-🧠 I'm currently learning Node.js
+🧠 I'm currently learning Node.js, Express 
 
 ### Skills
 
