@@ -16,7 +16,7 @@ I would be delighted to be a part of your team!
 
 ### Skills
 
-JavaScript, TypeScript, Git, React, Jest, Sass, Vite, Figma
+JavaScript, TypeScript, Git, React, Jest, Sass, Vite, Figma, Photoshop
 
 ### Socials
 
